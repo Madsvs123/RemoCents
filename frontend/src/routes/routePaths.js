@@ -1,0 +1,18 @@
+export const routePaths = {
+  home: '/',
+  jobs: '/jobs',
+  jobDetails: '/jobs/:id',
+  apply: '/apply',
+  manageJobs: '/manage-jobs',
+  companies: '/companies',
+  companyDetails: '/companies/:id',
+  adminUsers: '/admin/users',
+  login: '/login',
+  register: '/register',
+  dashboard: '/dashboard',
+  profile: '/profile',
+  notifications: '/notifications',
+  interviews: '/interviews',
+  videoResume: '/video-resume',
+  notFound: '*',
+};

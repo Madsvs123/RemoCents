@@ -1,0 +1,25 @@
+# Existing dependencies
+flask
+flask-jwt-extended
+flask-cors
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pillow
+pypdf2
+python-docx
+
+# New dependencies for scaling
+elasticsearch
+celery
+redis
+python-multipart
+nltk
+spacy
+textblob
+opencv-python
+moviepy
+boto3
+schedule
+apscheduler
